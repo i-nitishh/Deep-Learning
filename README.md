@@ -1,4 +1,4 @@
-# Deep-Learning
+ Deep-Learning
 Sure! Here's an example of a README file for the MNIST dataset for CNN on GitHub:
 
 ```
@@ -52,8 +52,8 @@ The CNN model architecture used in this project consists of multiple convolution
 
 After training the model on the MNIST dataset, the following results were achieved:
 
-- Training accuracy: XX%
-- Test accuracy: XX%
+- Training accuracy: 99.66%
+- Test accuracy: 99.25%
 
 ## Contributing
 
